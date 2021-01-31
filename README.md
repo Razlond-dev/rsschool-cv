@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://razlond-dev.github.io/rsschool-cv/cv
