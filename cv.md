@@ -10,6 +10,7 @@ HTML/CSS, JavaScript, React.js, Git.
 
 ---
 ### Code examples
+`console.log('Hello world!')`
 
 ---
 ### Work experience
