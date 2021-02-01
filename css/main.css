@@ -31,7 +31,7 @@ section p {
   margin-block-end: 1em;
 }
 
-.cv-container {
+main {
   width: 1000px;
 }
 
@@ -67,6 +67,15 @@ section p {
 .header__contacts ul li a{
   color: black;
   text-decoration: none;
+  font-weight: bold;
+}
+
+.code-examples a{
+  text-decoration: none;
+  font-weight: normal;
+}
+
+.code-examples a:hover{
   font-weight: bold;
 }
 
